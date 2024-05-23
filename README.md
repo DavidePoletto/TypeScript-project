@@ -1,6 +1,8 @@
 <p align="center">
   <a href="https://github.com/davidepoletto/TypeScript-project">
-    <img src=""
+    <img src="typescript-def.png">
+  </a>
+</p>
 
 # Sunnee Beachwear - TypeScript Project
 This project develops a system in TypeScript to model the operational structure of Sunnee, a sustainable beachwear brand dedicated to producing swimwear, sarongs, and hats made from recycled plastic.

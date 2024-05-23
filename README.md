@@ -1,3 +1,6 @@
+<p align="center">
+<a href=""
+
 # Sunnee Beachwear - TypeScript Project
 This project develops a system in TypeScript to model the operational structure of Sunnee, a sustainable beachwear brand dedicated to producing swimwear, sarongs, and hats made from recycled plastic.
 
@@ -17,10 +20,6 @@ The main goal of the project is to demonstrate how technology can support sustai
 3. Run npm install to install dependencies.
 4. Compile the TypeScript code with tsc.
 5. Run the generated JavaScript code with node dist/app.js.
-
-## Screenshots
-
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
 
 ## Authors
 

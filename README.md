@@ -10,13 +10,12 @@
 <h3 align="center">Project Objective</h3>
 <p align="center">The main goal of the project is to demonstrate how technology can support sustainable innovation in the fashion industry, focusing on the interactions between customers, beachwear products, and sustainable production processes.</p>
 
-<h3>Key Features</h3>
-<p>
+## Key Features
 - Definition of interfaces (IProduct, IClient, IProductionProcess) to represent the various components of the system.
 - Implementation of classes (Product, Client, ProductionProcess) that adhere to the defined interfaces.
 - Linking logic that manages product assignment to customers and the addition of new items to production processes.
 - Testing of logic through object instantiation and method invocation.
-</p>
+
 <h3>How to Run the Code</h3>
 <p>
 1. Ensure you have Node.js and TypeScript installed.

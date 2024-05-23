@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "target": "ES6",                  // Versione ECMAScript di destinazione
+    "module": "commonjs",             // Sistema di moduli da utilizzare
+    "outDir": "./dist",               // Directory di output per i file compilati
+    "rootDir": "./src",               // Directory di root per i file di origine
+    "strict": true,                   // Abilita tutte le verifiche di tipo stretto
+    "esModuleInterop": true,          // Abilita l'interoperabilità con i moduli ES6
+    "skipLibCheck": true,             // Salta il controllo dei tipi nei file di definizione
+    "forceConsistentCasingInFileNames": true  // Garantisce la coerenza dei nomi di file
+  },
+  "include": ["src/**/*"],            // Includi tutti i file TypeScript nella directory src
+  "exclude": ["node_modules"]         // Escludi la directory node_modules
+}
+

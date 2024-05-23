@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/davidepoletto/TypeScript-project">
-    <img src="typescript-def.png" width="50px">
+    <img src="typescript-def.png" width="100px">
   </a>
 </p>
 

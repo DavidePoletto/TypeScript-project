@@ -24,6 +24,9 @@
 4. Compile the TypeScript code with tsc.
 5. Run the generated JavaScript code with node dist/app.js.
 
+### You can try the code here:
+https://codepen.io/DavidePoletto/pen/ZENOoLB
+
 ### Authors
 
 - [DavidePoletto](https://github.com/DavidePoletto)

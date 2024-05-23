@@ -4,11 +4,11 @@
   </a>
 </p>
 
-# Sunnee Beachwear - TypeScript Project
-This project develops a system in TypeScript to model the operational structure of Sunnee, a sustainable beachwear brand dedicated to producing swimwear, sarongs, and hats made from recycled plastic.
+<h3 align="center">Sunnee Beachwear - TypeScript Project</h3>
+<p align="center">This project develops a system in TypeScript to model the operational structure of Sunnee, a sustainable beachwear brand dedicated to producing swimwear, sarongs, and hats made from recycled plastic.</p>
 
-## Project Objective
-The main goal of the project is to demonstrate how technology can support sustainable innovation in the fashion industry, focusing on the interactions between customers, beachwear products, and sustainable production processes.
+<h3 align="center">Project Objective</h3>
+<p align="center">The main goal of the project is to demonstrate how technology can support sustainable innovation in the fashion industry, focusing on the interactions between customers, beachwear products, and sustainable production processes.</p>
 
 ## Key Features
 
